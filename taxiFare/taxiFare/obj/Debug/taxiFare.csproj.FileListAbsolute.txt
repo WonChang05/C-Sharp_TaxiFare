@@ -1,0 +1,7 @@
+D:\Users\Won\Desktop\taxiFare\taxiFare\bin\Debug\taxiFare.exe.config
+D:\Users\Won\Desktop\taxiFare\taxiFare\bin\Debug\taxiFare.exe
+D:\Users\Won\Desktop\taxiFare\taxiFare\bin\Debug\taxiFare.pdb
+D:\Users\Won\Desktop\taxiFare\taxiFare\obj\Debug\taxiFare.csprojAssemblyReference.cache
+D:\Users\Won\Desktop\taxiFare\taxiFare\obj\Debug\taxiFare.csproj.CoreCompileInputs.cache
+D:\Users\Won\Desktop\taxiFare\taxiFare\obj\Debug\taxiFare.exe
+D:\Users\Won\Desktop\taxiFare\taxiFare\obj\Debug\taxiFare.pdb
